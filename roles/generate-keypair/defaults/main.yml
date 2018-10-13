@@ -1,0 +1,3 @@
+---
+# file: roles/generate-keypair/defaults/main.yml
+# default variables for the role

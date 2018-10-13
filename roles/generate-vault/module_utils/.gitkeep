@@ -1,0 +1,3 @@
+---
+# file: roles/generate-vault/module_utils/main.yml
+# roles can also include custom module_utils

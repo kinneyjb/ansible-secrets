@@ -1,0 +1,3 @@
+---
+# file: roles/generate-vault/templates/.gitkeep
+# this directory contains templates which can be deployed via this role

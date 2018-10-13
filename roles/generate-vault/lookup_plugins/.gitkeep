@@ -1,0 +1,3 @@
+---
+# file: roles/generate-vault/lookup_plugins/main.yml
+# roles can use include other plugins, like 'lookup' in this case

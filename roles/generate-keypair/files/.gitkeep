@@ -1,0 +1,3 @@
+---
+# file: roles/generate-keypair/files/.gitkeep
+# this directory contains files which can be deployed via this role
