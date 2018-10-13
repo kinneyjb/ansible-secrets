@@ -1,0 +1,7 @@
+secrets_dir: secrets
+vault_password_file: '{{ secrets_dir }}/vault-password'
+
+keypairs:
+  - name: private1.key
+  - name: private2.key
+  - name: private3.key

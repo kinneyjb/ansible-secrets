@@ -1,4 +1,0 @@
----
-# file: roles/generate-keypair/handlers/main.yml
-# contains handlers, which may be used by this role
-# or even anywhere outside this role

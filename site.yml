@@ -1,7 +1,0 @@
----
-# file: site.yml
-# master playbook
-
- - import_playbook: webservers.yml
- - import_playbook: dbservers.yml
-
